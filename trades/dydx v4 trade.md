@@ -74,6 +74,7 @@ How do we know the hype cycle is in effect and what the magnitude of the effect 
   * google trends?
   * mentions twitter?
   * volume
+* Essentially back testing for the event 
 
 
 
