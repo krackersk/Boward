@@ -37,6 +37,9 @@ Risks
   * Hype cycle not in effect due to macro?
     * seems to be in effect look at RUNE, THOR for similar event (releasing loans), and PEPE, AKT
 
+#### ChatGPT  
+https://chat.openai.com/share/cc2dfc11-65de-4a7d-a3a7-69ec4465c0e2
+
 Outcome: 
 [dYdX v4 - Trade analysis](https://docs.google.com/spreadsheets/d/102WYbB16gpsN8r-VgeExJZ-og74Dvm69upJ0Yb-XWno/edit#gid=0)
 
