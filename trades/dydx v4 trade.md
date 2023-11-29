@@ -48,7 +48,7 @@ Outcome:
 ## Fundamentals driven investments
 ### Fundamentals: Dydx volume increase?
 What will drive the volume increase? App chain thesis?
-Will the token accrue value?
+Will the token accrue value? - if volume trails down then scale out, how much are we willing to loose 10k
 ### Fundamentals: Osmosis volume increase
 Strategy: Play the hype cycle around the release
 Trade:
