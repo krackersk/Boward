@@ -200,7 +200,7 @@ All metrics should be looked at overtime.
 
 **Volume/OI**: eg. Wash trading on Vertex due to ARB incentive program. [vxH0rny.blast on X](https://x.com/veH0rny/status/1729195256359621081?s=20)
 
-![](/attachments/Pasted%20image%2020231130212427.png)
+![](../attachments/Pasted%20image%2020231130212427.png)
 ### Dashboards
 Artemis
 * [Artemis - Perps Dashboard](https://app.artemis.xyz/dashboard/perpetuals/compare) - Trading volume, TVL, Unique traders, Market Cap
