@@ -26,7 +26,7 @@ Leverage and accessibility. Perps allow leverage, spot leverage is limited. Perp
 
 #### 4. Exchanges are a winner take most market
 Monopolies form when there are benefits to economies of scale. More liquidity improves the trading experience through less slippage and larger trades becoming viable, this increases fees without a similar magnitude increase in cost. This effect can be seen in the graph below, with Binance dominating the perps market, while other echange’s volume relatively declines.
-![](/attachments/Screenshot%202023-11-25%20at%209.40.28%E2%80%AFam.png)[^7]
+![](../attachments/Screenshot%202023-11-25%20at%209.40.28%E2%80%AFam.png)[^7]
 #### 5. Profitability will enable earnings distribution
 “Clients always pay for leverage,” he said. “That’s why, when I set out to create my own crypto trading platform in 2014, I focused on derivatives. And it’s also why, when I started exploring how to get meaningful exposure to DeFi in 2022, I went the derivatives route then, too. … the [GMX] tokenomics offer an attractive yield, which is another reason why I like this token for my portfolio.”” - Arthur Hayes[^6]
 
