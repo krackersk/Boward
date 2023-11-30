@@ -16,7 +16,7 @@ How to take advantage of this thesis:
 ### Exploring the thesis drivers
 #### 1. Crypto volumes will increase
 With each crypto bull run the total volume traded increases in magnitude, and keeps some of that increase during the bear market (see graph below). If we take there will be another bull run as a given, then we can expect volumes to increase by another order of magnitude.
-![](Screenshot%202023-11-25%20at%209.16.37%E2%80%AFam.png)[^7]
+![](/attachments/Screenshot%202023-11-25%20at%209.16.37%E2%80%AFam.png)[^7]
 
 #### 2. Decentralised volumes will increase relative to centralised volumes
 CEX’s advantages, _performance_ and _ease of use_, are being eroded as blockchains improve in both these attributes. Blockchain’s advantages, _composability_, _regulation arbitrage_, _tokens_ and _transparency_, will drive users and hence liquidity to DEX’s. See [[Perpetual futures (Perps)/Where do DEX’s and CEX’s differ?]].
@@ -26,7 +26,7 @@ Leverage and accessibility. Perps allow leverage, spot leverage is limited. Perp
 
 #### 4. Exchanges are a winner take most market
 Monopolies form when there are benefits to economies of scale. More liquidity improves the trading experience through less slippage and larger trades becoming viable, this increases fees without a similar magnitude increase in cost. This effect can be seen in the graph below, with Binance dominating the perps market, while other echange’s volume relatively declines.
-![](Screenshot%202023-11-25%20at%209.40.28%E2%80%AFam.png)[^7]
+![](attachments/Screenshot%202023-11-25%20at%209.40.28%E2%80%AFam.png)[^7]
 #### 5. Profitability will enable earnings distribution
 “Clients always pay for leverage,” he said. “That’s why, when I set out to create my own crypto trading platform in 2014, I focused on derivatives. And it’s also why, when I started exploring how to get meaningful exposure to DeFi in 2022, I went the derivatives route then, too. … the [GMX] tokenomics offer an attractive yield, which is another reason why I like this token for my portfolio.”” - Arthur Hayes[^6]
 
