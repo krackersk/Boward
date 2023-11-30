@@ -26,7 +26,7 @@ Leverage and accessibility. Perps allow leverage, spot leverage is limited. Perp
 
 #### 4. Exchanges are a winner take most market
 Monopolies form when there are benefits to economies of scale. More liquidity improves the trading experience through less slippage and larger trades becoming viable, this increases fees without a similar magnitude increase in cost. This effect can be seen in the graph below, with Binance dominating the perps market, while other echange’s volume relatively declines.
-![](attachments/Screenshot%202023-11-25%20at%209.40.28%E2%80%AFam.png)[^7]
+![](/attachments/Screenshot%202023-11-25%20at%209.40.28%E2%80%AFam.png)[^7]
 #### 5. Profitability will enable earnings distribution
 “Clients always pay for leverage,” he said. “That’s why, when I set out to create my own crypto trading platform in 2014, I focused on derivatives. And it’s also why, when I started exploring how to get meaningful exposure to DeFi in 2022, I went the derivatives route then, too. … the [GMX] tokenomics offer an attractive yield, which is another reason why I like this token for my portfolio.”” - Arthur Hayes[^6]
 
@@ -149,19 +149,19 @@ Multiple of the following attributes needed to drive users (prosumers), and henc
 * Most of the volume of perps is on centralised exchanges[^2]. In Sept 23 CEX Perps volume was $1.5T vs $23B for DEX Perps, which is about 1.5%[^5].
 * Spot DEX’s are 10-20% of CEX’s, where as Perps DEX’s are 1-3% of CEX’s[^2] - lots of room for Perps DEX’s to grow.
 * Its a winner takes most market, probably due to the advantages of liquidity network effects and economies of scale
-![](Screenshot%202023-11-01%20at%204.25.49%E2%80%AFpm.png)[^2]
-![](Screenshot%202023-11-13%20at%203.31.03%E2%80%AFpm.png)[^5]
-![](attachments/DEX%20Perps%20Top%206.png)
+![](/attachments/Screenshot%202023-11-01%20at%204.25.49%E2%80%AFpm.png)[^2]
+![](/attachments/Screenshot%202023-11-13%20at%203.31.03%E2%80%AFpm.png)[^5]
+![](/attachments/DEX%20Perps%20Top%206.png)
 
 [^5]
-![](Screenshot%202023-11-13%20at%203.30.11%E2%80%AFpm.png)[^5]
-![](Screenshot%202023-11-13%20at%203.30.26%E2%80%AFpm.png)[^5]
+![](/attachments/Screenshot%202023-11-13%20at%203.30.11%E2%80%AFpm.png)[^5]
+![](/attachments/Screenshot%202023-11-13%20at%203.30.26%E2%80%AFpm.png)[^5]
 ## Potential Market Value
 ### Revenue
 “The Drake Equation for many crypto businesses:  Revenues = P (crypto prices) * V (trading volume) * T (% take rate)
 The overwhelming bias for most traditional analysts is to structurally underestimate the size of P and V in the long run.” - [Matt Huang on Twitter](https://twitter.com/matthuang/status/1401240446152548352?s=20)
 
-![](attachments/3db8082e-1aa6-4361-b952-7eedb3ae9cb3_990x819.png)
+![](/attachments/3db8082e-1aa6-4361-b952-7eedb3ae9cb3_990x819.png)
 [^2]
 
 ## Technical design of Perp DEX’s
@@ -199,7 +199,8 @@ All metrics should be looked at overtime.
 **Developers** - the liveliness of the protocol
 
 **Volume/OI**: eg. Wash trading on Vertex due to ARB incentive program. [vxH0rny.blast on X](https://x.com/veH0rny/status/1729195256359621081?s=20)
-![Image](https://pbs.twimg.com/media/F_9VxKIWwAA5DlK?format=png&name=small)
+
+![](/attachments/Pasted%20image%2020231130212427.png)
 ### Dashboards
 Artemis
 * [Artemis - Perps Dashboard](https://app.artemis.xyz/dashboard/perpetuals/compare) - Trading volume, TVL, Unique traders, Market Cap
@@ -223,13 +224,13 @@ Dune analytics
 MUX is an aggregator - uses other backends as well as it’s own: [Emperor Osmo🧪 \(@Flowslikeosmo\) on X](https://twitter.com/flowslikeosmo/status/1701959078572912875?s=12&t=rsnnu7xzWfoqD1yLiNIXdw)
 Synthetix as a backend for perps: [Synthetix V3 Markets: A Comprehensive Guide](https://blog.synthetix.io/synthetix-v3-markets-a-comprehensive-guide/)
 
-![](attachments/94fad2f1-2722-43ba-8e20-73e948f85f0c_1598x805.png)
+![](/attachments/94fad2f1-2722-43ba-8e20-73e948f85f0c_1598x805.png)
 [^2]
-![](attachments/Treehouse%20research%20-%20key%20metrics%20of%20perps%20DEXs.png)
+![](/attachments/Treehouse%20research%20-%20key%20metrics%20of%20perps%20DEXs.png)
 [^9]
-![](attachments/Treehouse%20research%20-%20Key%20metrics%20of%20CEXs.png)
+![](/attachments/Treehouse%20research%20-%20Key%20metrics%20of%20CEXs.png)
 [^9]
-![](attachments/image.png)
+![](/attachments/image.png)
 [tuba 🦈 \(@0xtuba\) on X](https://x.com/0xtuba/status/1567711817178427393?s=20)
 Options: [HanSolar.eth on Twitter](https://twitter.com/hansolar21/status/1567750203712897024?s=20)
 Synthetix: [Adam Cochran \(adamscochran.eth\) \(@adamscochran\) on X](https://twitter.com/adamscochran/status/1723030687039525262?s=20)
