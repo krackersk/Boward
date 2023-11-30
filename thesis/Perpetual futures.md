@@ -16,7 +16,7 @@ How to take advantage of this thesis:
 ### Exploring the thesis drivers
 #### 1. Crypto volumes will increase
 With each crypto bull run the total volume traded increases in magnitude, and keeps some of that increase during the bear market (see graph below). If we take there will be another bull run as a given, then we can expect volumes to increase by another order of magnitude.
-![](/attachments/Screenshot%202023-11-25%20at%209.16.37%E2%80%AFam.png)[^7]
+![](../attachments/Screenshot%202023-11-25%20at%209.16.37%E2%80%AFam.png)[^7]
 
 #### 2. Decentralised volumes will increase relative to centralised volumes
 CEX’s advantages, _performance_ and _ease of use_, are being eroded as blockchains improve in both these attributes. Blockchain’s advantages, _composability_, _regulation arbitrage_, _tokens_ and _transparency_, will drive users and hence liquidity to DEX’s. See [[Perpetual futures (Perps)/Where do DEX’s and CEX’s differ?]].
@@ -149,19 +149,19 @@ Multiple of the following attributes needed to drive users (prosumers), and henc
 * Most of the volume of perps is on centralised exchanges[^2]. In Sept 23 CEX Perps volume was $1.5T vs $23B for DEX Perps, which is about 1.5%[^5].
 * Spot DEX’s are 10-20% of CEX’s, where as Perps DEX’s are 1-3% of CEX’s[^2] - lots of room for Perps DEX’s to grow.
 * Its a winner takes most market, probably due to the advantages of liquidity network effects and economies of scale
-![](/attachments/Screenshot%202023-11-01%20at%204.25.49%E2%80%AFpm.png)[^2]
-![](/attachments/Screenshot%202023-11-13%20at%203.31.03%E2%80%AFpm.png)[^5]
-![](/attachments/DEX%20Perps%20Top%206.png)
+![](../attachments/Screenshot%202023-11-01%20at%204.25.49%E2%80%AFpm.png)[^2]
+![](../attachments/Screenshot%202023-11-13%20at%203.31.03%E2%80%AFpm.png)[^5]
+![](../attachments/DEX%20Perps%20Top%206.png)
 
 [^5]
-![](/attachments/Screenshot%202023-11-13%20at%203.30.11%E2%80%AFpm.png)[^5]
-![](/attachments/Screenshot%202023-11-13%20at%203.30.26%E2%80%AFpm.png)[^5]
+![](../attachments/Screenshot%202023-11-13%20at%203.30.11%E2%80%AFpm.png)[^5]
+![](../attachments/Screenshot%202023-11-13%20at%203.30.26%E2%80%AFpm.png)[^5]
 ## Potential Market Value
 ### Revenue
 “The Drake Equation for many crypto businesses:  Revenues = P (crypto prices) * V (trading volume) * T (% take rate)
 The overwhelming bias for most traditional analysts is to structurally underestimate the size of P and V in the long run.” - [Matt Huang on Twitter](https://twitter.com/matthuang/status/1401240446152548352?s=20)
 
-![](/attachments/3db8082e-1aa6-4361-b952-7eedb3ae9cb3_990x819.png)
+![](../attachments/3db8082e-1aa6-4361-b952-7eedb3ae9cb3_990x819.png)
 [^2]
 
 ## Technical design of Perp DEX’s
@@ -224,13 +224,13 @@ Dune analytics
 MUX is an aggregator - uses other backends as well as it’s own: [Emperor Osmo🧪 \(@Flowslikeosmo\) on X](https://twitter.com/flowslikeosmo/status/1701959078572912875?s=12&t=rsnnu7xzWfoqD1yLiNIXdw)
 Synthetix as a backend for perps: [Synthetix V3 Markets: A Comprehensive Guide](https://blog.synthetix.io/synthetix-v3-markets-a-comprehensive-guide/)
 
-![](/attachments/94fad2f1-2722-43ba-8e20-73e948f85f0c_1598x805.png)
+![](../attachments/94fad2f1-2722-43ba-8e20-73e948f85f0c_1598x805.png)
 [^2]
-![](/attachments/Treehouse%20research%20-%20key%20metrics%20of%20perps%20DEXs.png)
+![](../attachments/Treehouse%20research%20-%20key%20metrics%20of%20perps%20DEXs.png)
 [^9]
-![](/attachments/Treehouse%20research%20-%20Key%20metrics%20of%20CEXs.png)
+![](../attachments/Treehouse%20research%20-%20Key%20metrics%20of%20CEXs.png)
 [^9]
-![](/attachments/image.png)
+![](../attachments/image.png)
 [tuba 🦈 \(@0xtuba\) on X](https://x.com/0xtuba/status/1567711817178427393?s=20)
 Options: [HanSolar.eth on Twitter](https://twitter.com/hansolar21/status/1567750203712897024?s=20)
 Synthetix: [Adam Cochran \(adamscochran.eth\) \(@adamscochran\) on X](https://twitter.com/adamscochran/status/1723030687039525262?s=20)
