@@ -21,8 +21,8 @@ The FRAX Protocol is a unique player in the decentralized finance (DeFi) space, 
 
 - **Total Supply**: The total supply of FXS tokens is dynamic due to the protocol's unique mechanism that involves burning and minting tokens based on the demand for the FRAX stablecoin.
 - **Community Allocation**: A portion of FXS tokens is allocated for community incentives, governance, and liquidity providers. The exact percentage may vary based on protocol governance decisions.
-- **Market Cap**: The market capitalization of FXS tokens fluctuates with the market price and the current total supply.
-- **Token Unlock Schedule**: The FRAX protocol may have specific unlock schedules for tokens allocated to founders, early investors, and advisors. These schedules are typically designed to prevent market flooding and maintain token price stability.
+- **Market Cap**: Under 1 Billion
+- **Token Unlock Schedule**: 
 
 #### Technology
 
